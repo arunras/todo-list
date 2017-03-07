@@ -1,2 +1,7 @@
 # todo-list
-Todo-List is a web application used Node.js and MongoDb.
+Web application for todo-list used Node.js and MongoDb.
+Package used:
+- express: for routing
+- ejs: for views
+- body-parser: for static files
+- mongoose: for mongodb
